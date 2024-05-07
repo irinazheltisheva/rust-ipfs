@@ -14,7 +14,7 @@
     "ipfsd-ctl": "github:ipfs-rust/js-ipfsd-ctl#add_rust_ipfs_http",
     "mocha": "^7.1.0",
     "ipfs-http-client": "46.0.0",
-    "why-is-node-running": "2.2.0"
+    "why-is-node-running": "2.2.2"
   },
   "devDependencies": {
     "rust-ipfs-dep": "github:ipfs-rust/npm-rust-ipfs-dep#master",
