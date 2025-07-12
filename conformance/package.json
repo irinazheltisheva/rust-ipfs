@@ -9,11 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aegir": "^21.3.0",
-    "interface-ipfs-core": "0.139.0",
+    "aegir": "^47.0.0",
+    "interface-ipfs-core": "0.158.1",
     "ipfsd-ctl": "github:ipfs-rust/js-ipfsd-ctl#add_rust_ipfs_http",
-    "mocha": "^7.1.0",
-    "ipfs-http-client": "46.0.0",
+    "mocha": "^11.0.1",
+    "ipfs-http-client": "60.0.1",
     "why-is-node-running": "2.2.0"
   },
   "devDependencies": {
